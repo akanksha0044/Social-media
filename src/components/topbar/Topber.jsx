@@ -38,7 +38,7 @@ export default function topber() {
           </div>
           
         </div>
-        <img src='/asset/person/ak.jpeg' alt='' className='topImg'/>
+        <img src='/asset/person/nature.jpg' alt='' className='topImg'/>
       </div>
     
     </div>

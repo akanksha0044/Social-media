@@ -17,7 +17,7 @@ export default function profile() {
             <div className="profileCover">
               <img
                 className="profileCoverImg"
-                src="asset/person/ak.jpeg"
+                src="asset/person/nature.jpg"
                 alt=""
               />
               <img
